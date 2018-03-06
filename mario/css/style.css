@@ -1,0 +1,133 @@
+#menu {
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+#stopButton,
+#start {
+    display: inline-block;
+    margin-right: 18px;
+    margin-top: 50px;
+}
+
+#gt {
+    height: 70px;
+    width: 70px;
+}
+.bird {
+    position: absolute;
+    background: url(../images/bird.png);
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+}
+.pipe {
+    position: absolute;
+    background: url(../images/pipe.png);
+    background-size: 80px 120px;
+    width: 80px;
+    height: 120px;
+}
+.coin {
+    position: absolute;
+    background: url(../images/coin.png);
+    background-size: 30px 30px;
+    width: 30px;
+    height: 30px;
+}
+.cup {
+    position: absolute;
+    background: url(../images/victory.png);
+    background-size: 90px 90px;
+    width: 90px;
+    height: 90px;
+}
+.life {
+    position: absolute;
+    background: url(../images/life.png);
+    background-size: 70px 70px;
+    width: 70px;
+    height: 70px;
+}
+.cuant {
+    position: absolute;
+    background: url(../images/3.png);
+    background-size: 70px 70px;
+    width: 70px;
+    height: 70px;
+}
+#character {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    background: url(../images/mario-icon.png) no-repeat;
+}
+.collision {
+    position: absolute;
+    background: url(../images/qar.png);
+    width: 40px;
+    height: 40px;
+}
+.coinscore {
+    position: absolute;
+    background: url(../images/coin.png);
+    background-size: 50px 50px;
+    width: 50px;
+    height: 50px;
+}
+#mario {
+    position: absolute;
+    width: 36px;
+    height: 42px;
+    top: 0px;
+    left: 0px;
+    background-image: url(../images/sprites.png);
+    background-position: -36px 0px;
+}
+.cb{
+     position: absolute;
+    background: url(../images/0.png);
+    background-size: 50px 50px;
+    width: 50px;
+    height: 50px;
+}
+.wall{
+     position: absolute;
+    background: url(../images/wall.png);
+    width: 45px;
+    height: 50px;
+}
+.plant{
+     position: absolute;
+    background: url(../images/plant.png);
+     background-size: 45px 45px;
+    width: 45px;
+    height: 45px;
+}
+.tiv{
+     position: absolute;
+    background: url(../images/3.png);
+    background-size: 70px 70px;
+    width: 70px;
+    height: 70px;
+}
+.pat{
+    position: absolute;
+    background: url(../images/wall.png);
+    width: 45px;
+    height: 50px;
+}
+.pat2{
+    position: absolute;
+    background: url(../images/qar.png);
+    width: 40px;
+    height: 40px;
+}
+.pat3{
+    position: absolute;
+    background: url(../images/qar.png);
+    width: 40px;
+    height: 60px;
+}
